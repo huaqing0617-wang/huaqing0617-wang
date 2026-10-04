@@ -1,6 +1,6 @@
 # Hi, I'm Mingze Wang 👋
 
-I'm an aerospace engineering student at Beihang University, with interests in experimental research, laser diagnostics, embedded systems, and scientific computing.
+I'm a PhD student at Beihang University, working on laser diagnostics and scientific instrumentation for aerospace applications.
 
 My current work spans numerical simulation, embedded control systems, scientific instrumentation, and aerospace engineering. I enjoy building complete systems — from mathematical models and simulation to hardware, firmware, and experiments.
 
