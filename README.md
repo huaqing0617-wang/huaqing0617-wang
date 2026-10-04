@@ -1,6 +1,6 @@
 # Hi, I'm Mingze Wang 👋
 
-I'm a PhD in Aviation Electric Propulsion and Intelligent Control at Beihang University, interested in experimental research, laser diagnostics, embedded systems, and scientific computing.
+I'm an aerospace engineering student at Beihang University, with interests in experimental research, laser diagnostics, embedded systems, and scientific computing.
 
 My current work spans numerical simulation, embedded control systems, scientific instrumentation, and aerospace engineering. I enjoy building complete systems — from mathematical models and simulation to hardware, firmware, and experiments.
 
