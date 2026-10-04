@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mingze Wang 👋
 
-<!--
-**huaqing0617-wang/huaqing0617-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aerospace engineering student at Beihang University, interested in experimental research, laser diagnostics, embedded systems, and scientific computing.
 
-Here are some ideas to get you started:
+My current work spans numerical simulation, embedded control systems, scientific instrumentation, and aerospace engineering. I enjoy building complete systems — from mathematical models and simulation to hardware, firmware, and experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Laser diagnostics and optical measurement
+- Experimental fluid mechanics
+- Scientific instrumentation
+- Aerospace propulsion and energy systems
+- Scientific computing and numerical simulation
+
+## 🛠️ Engineering & Computing
+
+- **Programming:** Python, MATLAB, C/C++
+- **Embedded Systems:** STM32, Raspberry Pi
+- **Simulation:** ANSYS Fluent, MATLAB/Simulink
+- **Hardware:** PCB design, sensors, motor control, CAN communication
+- **Development:** Git, GitHub, VS Code, Linux
+
+## 🚀 Current Focus
+
+I am currently developing my background in optics and laser-based measurement techniques while continuing to work on embedded systems, numerical simulation, and scientific computing.
+
+---
+
+> Build. Simulate. Measure. Understand.
